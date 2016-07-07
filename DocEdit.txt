@@ -1,3 +1,9 @@
 This's first document  test
 --->
 Added and modifiers by NgocND
+
+
+
+Công c? qu?n lý d? án không còn quá xa l? v?i ngu?i dùng Vi?t Nam, nh?t là d?i v?i các công ty phát tri?n công ngh?. T?i Vi?t Nam, Backlog là m?t công c? qu?n lý d? án tr?c tuy?n d?n t? Nh?t B?n dã du?c s? d?ng t? nam 2009. V?i lu?ng nhu c?u s? d?ng ngày càng tang lên, vi?c h? tr? hoàn toàn ti?ng Vi?t cho t?t c? các ch?c nang và tính nang trên Backlog s? giúp ngu?i dùng s? d?ng d? dàng và thu?n ti?n hon.
+
+Backlog có giao di?n thân thi?n và cung c?p nh?ng tính nang toàn di?n cho nh?ng ngu?i dùng quen thu?c cung nhu v?i ngu?i m?i b?t d?u s? d?ng công c? qu?n lý d? án. Backlog du?c tích h?p v?i bi?u d? Gantt và bi?u d? Burn-down, giúp cho ngu?i dùng theo dõi du?c sát sao công vi?c và ki?m tra ti?n d? d? án c?a mình. Ngoài ra, Backlog còn h? tr? ch?c nang chia s? t?p tin WebDAV cho vi?c h?p tác gi?a các nhóm khác nhau, wiki, Git - h? th?ng qu?n lý phiên b?n cho nh?ng l?n c?p nh?t, s?a d?i trong d? án. 
